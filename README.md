@@ -33,7 +33,7 @@
 <h3> GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JAIAKASH&show_icons=true&theme=default&hide_border=true&title_color=4F5DFF&icon_color=4F5DFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaiakash23&show_icons=true&theme=default&hide_border=true&title_color=4F5DFF&icon_color=4F5DFF" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JAIAKASH&hide_border=true&stroke=4F5DFF&ring=4F5DFF&fire=4F5DFF" />
 </p>
 
