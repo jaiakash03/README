@@ -33,7 +33,7 @@
 <h3> GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaiakash23&show_icons=true&theme=default&hide_border=true&title_color=4F5DFF&icon_color=4F5DFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaiakash03&show_icons=true&theme=default&hide_border=true&title_color=4F5DFF&icon_color=4F5DFF" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JAIAKASH&hide_border=true&stroke=4F5DFF&ring=4F5DFF&fire=4F5DFF" />
 </p>
 
@@ -101,7 +101,7 @@ Currently Learning / Building
 <h3> Let's Connect</h3>
 
 <p align="left">
-  <a href="https://github.com/jaiakash23" target="_blank">
+  <a href="https://github.com/jaiakash03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/jai-akash-6a38702a5" target="_blank">
